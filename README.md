@@ -147,12 +147,16 @@ The National Assessment and Accreditation Council has conferred 'five star' accr
 ```
 
 ## Output:
-![output1](https://user-images.githubusercontent.com/118787261/212539652-53702aa0-b3cd-4b96-a76c-5da0cd4d7523.png)
-![output2](https://user-images.githubusercontent.com/118787261/212539655-bd3f1ab1-5375-4126-b959-484208be6908.png)
-![output3](https://user-images.githubusercontent.com/118787261/212539659-ffcbfd8c-184c-48e4-9c00-4bbc18a98f87.png)
-![output4](https://user-images.githubusercontent.com/118787261/212539664-d69d4577-91c7-4148-8f3a-56b90bfd9198.png)
-![output5](https://user-images.githubusercontent.com/118787261/212539668-b5f573a6-f78b-4c73-9579-e9f380be945b.png)
-![output6](https://user-images.githubusercontent.com/118787261/212539675-c757fcbe-e4a2-43c8-bab0-58a4ccb8443b.png)
+
+![kk1](https://user-images.githubusercontent.com/118708040/214768826-86dd58c9-0ef0-4040-abb4-ffadf032d446.png)
+![kk2](https://user-images.githubusercontent.com/118708040/214768834-031866b3-37df-4756-b595-de2ce50885c7.png)
+![kk3](https://user-images.githubusercontent.com/118708040/214768839-1ae271f6-ebdf-4f24-8d69-d2b0a06c3eda.png)
+![kk4](https://user-images.githubusercontent.com/118708040/214768844-198624d1-d438-4d00-845f-ae11656e16fe.png)
+![kk5](https://user-images.githubusercontent.com/118708040/214768857-16ccfd06-f0b3-402b-96dd-62c923df7b8f.png)
+![kk6](https://user-images.githubusercontent.com/118708040/214768859-494cd16f-08e3-43dc-8e34-d31bc058e6c0.png)
+
+
+
 
 ## Result:
 Thus a website is developed to display details about the places around my house
